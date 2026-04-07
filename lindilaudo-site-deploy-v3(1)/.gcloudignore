@@ -1,0 +1,19 @@
+# This file specifies files that are *not* uploaded to Google Cloud Platform
+.gcloudignore
+.git
+.gitignore
+node_modules/
+npm-debug.log
+.yarn-error.log
+README.md
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
